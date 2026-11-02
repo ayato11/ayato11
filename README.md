@@ -1,4 +1,4 @@
-# Hi there, I'm ayato👋
+# Hi there, I'm ayato 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=3776AB&lines=C%2B%2B+Developer;Python+Enthusiast;JavaScript+%26+Web+Dev;VS+Code+Power+User" alt="Typing SVG" />
@@ -31,12 +31,12 @@ I'm a developer focused on **C++**, **Python** and the **web stack (JavaScript, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayato11&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayato11&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayato11&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 > 💡 Карточка языков автоматически подсветит **C++**, **Python**, **JavaScript**, **HTML** и **CSS**, если это ваши самые используемые языки на GitHub. Параметр `langs_count=8` увеличен, чтобы все пять языков помещались в топ.
@@ -55,10 +55,10 @@ I'm a developer focused on **C++**, **Python** and the **web stack (JavaScript, 
 ## 📫 How to reach me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ayato11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:elaizaalm21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [ayato11](https://github.com/ayato11)
